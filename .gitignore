@@ -1,0 +1,5 @@
+/node_modules
+/.env
+/gamer-house-ecommerce-firebase-adminsdk-r3y0i-eec17eac6d.json
+/image/**
+!.gitkeep
